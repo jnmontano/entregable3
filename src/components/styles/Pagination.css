@@ -16,6 +16,7 @@
   height: 40px;
   border-radius: 50%;
   size-adjust: 30px;
+  box-shadow: 5px 5px 5px 0px rgba(84, 167, 206, 0.5);
 }
 
 li:hover{
