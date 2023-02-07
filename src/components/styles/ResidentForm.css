@@ -1,0 +1,44 @@
+.residentForm{
+  background-color: #062226;
+  color: white;
+  display: flex;
+  justify-content: center;
+  max-width:none;
+  padding: 150px;
+  background-image: url("../img/HeaderImage.jpg");
+  background-position: center;
+}
+
+.residentForm-input {
+  background-color: rgba(22, 72, 78, 0.797);
+  color: white;
+  padding: 10px 10px;
+  border: white solid 1px;
+  font: 20px bold;
+  text-align: center;
+  width: 500px
+}
+
+.residentForm-search{
+  text-decoration: none;
+  color: white;
+  background-color: #062226;
+  border-color: white;  
+  width: 100px;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 15px 20px;
+  border: white solid 1px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.residentForm-search:hover{
+  cursor: pointer;
+  background-color: #6a738b;
+  color: white;
+  font-weight: bold;
+}
+
+
+

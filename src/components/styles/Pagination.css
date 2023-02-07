@@ -1,0 +1,26 @@
+.pagination{
+  justify-content: center;
+  display: flex;
+  padding: 20px;
+  position: relative;
+  gap: 10px;
+}
+
+.pagination-lista{
+  padding: 11px;
+  text-align: center;    
+  background-color: #062226;  
+  color: aquamarine;
+  font-weight: bold;
+  width:40px;
+  height: 40px;
+  border-radius: 50%;
+  size-adjust: 30px;
+}
+
+li:hover{
+  cursor: pointer;
+  background-color: aquamarine;
+  color: #062226;
+  font-weight: bold;
+}
